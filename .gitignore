@@ -1,0 +1,4 @@
+# Office lock files, local editor/agent settings
+~$*
+.claude/settings.local.json
+*.log
